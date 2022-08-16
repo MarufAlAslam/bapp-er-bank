@@ -10,3 +10,4 @@ Things covered here:
 5. Vanilla Javascript Functions
 6. Fat Arrow Function
 7. Javascript DOM Manipulation
+8. No Custom CSS
