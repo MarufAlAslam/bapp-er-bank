@@ -13,6 +13,8 @@ document.getElementById('login-btn').addEventListener('click', function () {
         alert("Enter Correct Credentials")
     }
 })
+
+
 // -----------------------------------------------------------------------------
 // declaring functions
 function getEmail() {
